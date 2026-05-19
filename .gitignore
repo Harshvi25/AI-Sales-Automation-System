@@ -1,0 +1,6 @@
+venv/
+test.py
+test_scorer.py
+test_extractor.py
+__pycache__/
+.ipynb_checkpoints/ 
